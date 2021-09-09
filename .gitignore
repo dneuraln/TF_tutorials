@@ -20,4 +20,9 @@ doc/**/*.pdf
 
 # ignore 
 .ipynb_checkpoints
- 
+
+# ignore datsets
+aclImdb 
+
+#ignore tar.gz
+*.tar.gz
