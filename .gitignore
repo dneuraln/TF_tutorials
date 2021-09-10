@@ -24,6 +24,7 @@ doc/**/*.pdf
 # ignore datsets
 aclImdb
 datasets/
+dnn_model/
 
 #ignore tar.gz
 *.tar.gz
